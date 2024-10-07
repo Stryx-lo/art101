@@ -1,9 +1,32 @@
 /* Here we can set styles for this lab page that we don't want to effect others pages */
 
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
-.minor-section {
-    padding: 10px;
-    margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+h1 {
+    background-color: #b4a4b4aa;
+    text-align: center;
+    font-size: 35px;
+    font-family: "papyrus", fantasy;
   }
+
+body {
+  background-image: url(https://w0.peakpx.com/wallpaper/31/771/HD-wallpaper-birds-crows-art.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p{
+  background-color: #ff3232;
+  text-indent: 20px;
+  margin-left: 10px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+}
+
+#content {
+  width: 1000px;
+  min-height: 300px;
+  border: dashed 2px #ca3455aa;
+  background-color: #e3dede;
+  opacity: 1;
+}
