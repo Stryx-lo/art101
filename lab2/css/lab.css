@@ -6,21 +6,25 @@ h1 {
     text-align: center;
     font-size: 35px;
     font-family: "papyrus", fantasy;
+    opacity:1;
   }
 
 body {
   background-image: url(https://w0.peakpx.com/wallpaper/31/771/HD-wallpaper-birds-crows-art.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  opacity:1;
 }
 
 p{
-  background-color: #ff3232;
+  background-color: #ca2e2e;
+  color: #ffff;
   text-indent: 20px;
   margin-left: 10px;
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
   padding: 10px;
+  opacity: 1;
 }
 
 #content {
