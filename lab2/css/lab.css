@@ -32,6 +32,11 @@ img {
   
 }
 
+img, #lifeamongdeath {
+  border-radius: 100%;
+  width: 400px;
+}
+
 .center {
   display: block;
   margin-left: auto;
