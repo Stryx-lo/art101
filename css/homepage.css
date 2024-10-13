@@ -1,6 +1,27 @@
 /* this css file will only style the homepage of our site */
 
-.cat-photo {
+.portrait {
   margin: 10px;
   max-width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color:blanchedalmond;
+
+}
+
+main {
+  background-color:rgb(107, 224, 228);
+}
+
+ul {
+  background-color: aqua;
+}
+
+h1 {
+  font-size:50px;
+  font-family:"Comic Sans", sans-serif,
 }
