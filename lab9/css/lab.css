@@ -1,0 +1,26 @@
+.special {
+    background-color: aquamarine;
+    border: dotted 20px yellow;
+    color: blueviolet;
+    font-family: fantasy;
+}
+
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #888;
+    background-color: #DDD8C4;
+  }
+
+img {
+  width: 700px;
+}
+
+h1 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 50px;
+}
+
+h1 {
+    background-color: aliceblue;
+  }
