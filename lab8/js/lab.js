@@ -23,3 +23,4 @@ let result = numbers.map(function(x) {
 
 // Log the result
 console.log("Results: ", result);
+// Credit to ChatGPT
