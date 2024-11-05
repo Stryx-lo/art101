@@ -11,15 +11,15 @@ function addHundred(n) {
     return n+100;
 }
 
-//console.log(addHundred(4));
+console.log(addHundred(4));
 
 //let results = numbers.map(addHundred);
 //console.log(results);
 
 // anonymous function that subtracts 2 from x
-numbers.map(function(x) {
-    return x-2;
-})
+let result = numbers.map(function(x) {
+    return x - 2;
+});
 
-console.log("Results: ", numbers.map);
-// can't get console.log to work. (was copy-pasted from lab assignment page)
+// Log the result
+console.log("Results: ", result);
