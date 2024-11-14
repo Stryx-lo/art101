@@ -34,3 +34,11 @@ h1 {
   border: solid 1px #888;
   background-color: #DDD8C4;
 }
+
+.links {
+  background-color: beige;
+  border: solid 2px brown;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #676465;
+}
