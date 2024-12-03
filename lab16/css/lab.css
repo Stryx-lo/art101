@@ -1,0 +1,20 @@
+img {
+    width: 400px;
+  }
+  
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+  }
+  
+h1 {
+      background-color: aliceblue;
+  }
+
+  #output {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    background-color: cadetblue;
+    color: blue;
+    margin-left: 10px;
+  }
